@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
 
-//For Practice
+
 
 public class jdbcUtil {
 	
